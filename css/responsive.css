@@ -1,0 +1,756 @@
+/* ==== Extra small device responsive layout =====  */
+/* ==== navigation section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (max-width: 319.98px) {
+  .social-media {
+    display: none;
+  }
+  .banner {
+    height: 530px;
+  }
+  .banner-text {
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    text-align: center;
+    z-index: 100;
+  }
+  .banner-text-2 {
+    font-size: 20px;
+    margin-left: -64px;
+  }
+  .banner-text h1 {
+    font-size: 28px;
+    line-height: 35px;
+    margin-left: -90px;
+  }
+  .banner-text-2 span {
+    width: 5px;
+    height: 2px;
+    background: #fff;
+    margin-bottom: 4px;
+    margin-right: 2px;
+  }
+  .banner-img1 img {
+    width: 298px;
+    height: 300px;
+  }
+  .banner-img2 img {
+    display: none;
+  }
+}
+
+/* ==== Service section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+@media (max-width: 319.98px) {
+  .service-head .text-1 span {
+    margin-top: 23px;
+    width: 3px;
+    height: 25px;
+  }
+  .service-head .text-1 p {
+    font-size: 19px;
+    padding: 1px 0;
+  }
+  .service-head h1 {
+    font-size: 37px;
+  }
+  .text-box {
+    padding-top: 26px;
+    display: block;
+  }
+  .box-1 {
+    margin-bottom: 10px;
+  }
+  .box-icon {
+    height: 60px;
+    width: 60px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .box-icon a {
+    text-align: center;
+  }
+  .box-1 h2 {
+    padding-top: 2px;
+    color: red;
+    font-weight: bold;
+    font-size: 33px;
+  }
+}
+
+/* ==== protfilo image Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (max-width: 319.98px) {
+  .protfilo-head {
+    margin-top: 60px;
+    height: 400px;
+  }
+  .protfilo-head h2 {
+    padding-top: 28px;
+  }
+  .protfilo-head h1 {
+    font-size: 35px;
+  }
+  .img-area-1 {
+    padding-top: 15px;
+    display: block;
+  }
+  .img-area-1 .img-1 img {
+    width: 100%;
+    height: 325px;
+    z-index: 10;
+    margin-bottom: 15px;
+  }
+  .protfilo-bottom {
+    margin-top: 510px;
+    display: inline-block;
+  }
+  .image-2 img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  .protfilo-button .button {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+}
+
+/* ==== About Section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (max-width: 319.98px){
+  .about-section {
+    display: block;
+  }
+  .about-left span {
+    padding: 10px 0px;
+  }
+  .progress {
+    font-size: 14px;
+  }
+  .button {
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .my-self ul li {
+    font-size: 18px;
+  }
+  .my-self h2 {
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  .about-left h2,
+  .abput-right h2 {
+    font-size: 20px;
+  }
+  .social-account a {
+    color: #7743e0;
+    font-size: 40px;
+  }
+}
+
+/* ==== project Section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (max-width: 319.98px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+/* ==== owa carosel section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (max-width: 319.98px) {
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    border: none;
+  }
+}
+
+/* ==== project Section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (max-width: 319.98px) {
+  .qursetion-footer {
+    padding-bottom: 49px;
+  }
+  .footer-project {
+    padding-top: 36px;
+  }
+  .footer-flex {
+    display: block;
+    padding-bottom: 30px;
+    padding-top: 32px;
+  }
+  .footer-part {
+    margin-bottom: 20px;
+  }
+  .footer-part ul li a {
+    font-size: 18px;
+    margin-left: 0;
+    margin-left: 10px;
+  }
+  .social-link a {
+    color: #7743e0;
+    font-size: 47px;
+  }
+  .footer-part ul li {
+    color: #fff;
+    line-height: 36px;
+    font-size: 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .social-media {
+    display: none;
+  }
+  .banner {
+    height: 530px;
+  }
+  .banner-text {
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    text-align: center;
+    z-index: 100;
+  }
+  .banner-text-2 {
+    font-size: 20px;
+    margin-left: -64px;
+  }
+  .banner-text h1 {
+    font-size: 28px;
+    line-height: 35px;
+    margin-left: -90px;
+  }
+  .banner-text-2 span {
+    width: 5px;
+    height: 2px;
+    background: #fff;
+    margin-bottom: 4px;
+    margin-right: 2px;
+  }
+  .banner-img1 img {
+    width: 298px;
+    height: 300px;
+  }
+  .banner-img2 img {
+    display: none;
+  }
+}
+
+/* ==== Service section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+@media (min-width: 320px) and (max-width: 480px) {
+  .service-head .text-1 span {
+    margin-top: 23px;
+    width: 3px;
+    height: 25px;
+  }
+  .service-head .text-1 p {
+    font-size: 19px;
+    padding: 1px 0;
+  }
+  .service-head h1 {
+    font-size: 37px;
+  }
+  .text-box {
+    padding-top: 26px;
+    display: block;
+  }
+  .box-1 {
+    margin-bottom: 10px;
+  }
+  .box-icon {
+    height: 60px;
+    width: 60px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .box-icon a {
+    text-align: center;
+  }
+  .box-1 h2 {
+    padding-top: 2px;
+    color: red;
+    font-weight: bold;
+    font-size: 33px;
+  }
+}
+
+/* ==== protfilo image Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .protfilo-head {
+    margin-top: 60px;
+    height: 400px;
+  }
+  .protfilo-head h2 {
+    padding-top: 28px;
+  }
+  .protfilo-head h1 {
+    font-size: 35px;
+  }
+  .img-area-1 {
+    padding-top: 15px;
+    display: block;
+  }
+  .img-area-1 .img-1 img {
+    width: 100%;
+    height: 325px;
+    z-index: 10;
+    margin-bottom: 15px;
+  }
+  .protfilo-bottom {
+    margin-top: 215px;
+    display: inline-block;
+  }
+  .image-2 img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  .protfilo-button .button {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+}
+
+/* ==== About Section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .about-section {
+    display: block;
+  }
+  .about-left span {
+    padding: 10px 0px;
+  }
+  .progress {
+    font-size: 14px;
+  }
+  .button {
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .my-self ul li {
+    font-size: 18px;
+  }
+  .my-self h2 {
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  .about-left h2,
+  .abput-right h2 {
+    font-size: 20px;
+  }
+  .social-account a {
+    color: #7743e0;
+    font-size: 40px;
+  }
+}
+
+/* ==== project Section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+/* ==== owa carosel section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    border: none;
+  }
+}
+
+/* ==== project Section Most of the Smartphones Mobiles (Portrait) device responsive =====  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .qursetion-footer {
+    padding-bottom: 49px;
+  }
+  .footer-project {
+    padding-top: 36px;
+  }
+  .footer-flex {
+    display: block;
+    padding-bottom: 30px;
+    padding-top: 32px;
+  }
+  .footer-part {
+    margin-bottom: 20px;
+  }
+  .footer-part ul li a {
+    font-size: 18px;
+    margin-left: 0;
+    margin-left: 10px;
+  }
+  .social-link a {
+    color: #7743e0;
+    font-size: 47px;
+  }
+  .footer-part ul li {
+    color: #fff;
+    line-height: 36px;
+    font-size: 20px;
+  }
+}
+
+/*
+=================
+ Smartphones Mobiles (Portrait) device responsive End 
+=================
+*/
+
+/* ==== navigation section Most of the Smartphones Mobiles   device responsive =====  */
+@media (min-width: 481px) and (max-width: 767px) {
+  .banner-img2 img {
+    width: 180px;
+    height: 140px;
+    margin-bottom: 0;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    right: 30px;
+  }
+}
+
+/* ==== Service section Most of the Smartphones Mobiles (Landscape) device responsive =====  */
+@media (min-width: 481px) and (max-width: 767px) {
+  .service-head .text-1 span {
+    margin-top: 40px;
+    width: 3px;
+    height: 25px;
+  }
+  .service-head .text-1 p {
+    font-size: 25px;
+    padding: 1px 0;
+  }
+  .service-head h1 {
+    font-size: 37px;
+  }
+  .text-box {
+    padding-top: 26px;
+    display: block;
+  }
+  .box-1 {
+    margin-bottom: 15px;
+  }
+  .box-icon {
+    height: 70px;
+    width: 70px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .box-icon a {
+    text-align: center;
+  }
+  .box-1 h2 {
+    padding-top: 2px;
+    color: red;
+    font-weight: bold;
+    font-size: 33px;
+  }
+}
+
+/* ==== protfilo image Most of the Smartphones Mobiles (Landscape) device responsive =====  */
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .protfilo-head {
+    margin-top: 60px;
+    height: 400px;
+  }
+  .protfilo-head h2 {
+    padding-top: 28px;
+  }
+  .protfilo-head h1 {
+    font-size: 35px;
+  }
+  .img-area-1 {
+    padding-top: 15px;
+    display: block;
+  }
+  .img-area-1 .img-1 img {
+    width: 100%;
+    height: 325px;
+    z-index: 10;
+    margin-bottom: 80px;
+  }
+  .protfilo-bottom {
+    margin-top: 510px;
+    display: inline-block;
+  }
+  .image-2 img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    padding-left: 30px;
+    position:relative;
+    left:12%;
+    transform:translate(-50% -50%);
+  }
+  .protfilo-button .button {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+}
+
+
+/* ==== About Section Most of the Smartphones Mobiles (Landscape) device responsive =====  */
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .about-section {
+    display: block;
+  }
+  .about-left span {
+    padding: 10px 0px;
+  }
+  .progress {
+    font-size: 14px;
+  }
+  .button {
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .my-self ul li {
+    font-size: 24px;
+  }
+  .my-self h2 {
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  .about-left h2,
+  .abput-right h2 {
+    font-size: 32px;
+  }
+  .social-account a {
+    color: #7743e0;
+    font-size: 40px;
+  }
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+  
+  }
+
+
+  /* ==== project Section Most of the Smartphones Mobiles (Landscape) device responsive =====  */
+
+  @media (min-width: 481px) and (max-width: 767px) {
+  .qursetion-footer {
+    padding-bottom: 49px;
+  }
+  .footer-project {
+    padding-top: 36px;
+  }
+  .footer-flex {
+    display: block;
+    padding-bottom: 30px;
+    padding-top: 32px;
+  }
+  .footer-part {
+    margin-bottom: 20px;
+  }
+  .footer-part h2 {
+    color:blueviolet;
+    font-size: 35px;
+  }
+  .footer-part ul li a {
+    font-size: 30px;
+    margin-left: 0;
+    margin-left: 10px;
+  }
+  .social-link a {
+    color: #7743e0;
+    font-size: 60px;
+  }
+  .footer-part ul li {
+    color: #fff;
+    line-height: 40px;
+    font-size: 30px;
+  }
+}
+
+
+/*
+=================
+ Medium devices device responsive Starts Here (orientation: landscape)
+=================
+/* ==== navigation section Mediam device responsive =====  */
+@media (min-width:768px) and (max-width:991px){
+  .banner-img1 img {
+    width: 500px;
+    height: 400px;
+  }
+  .banner-img2 img {
+    right:100px;
+  }
+  .banner-text h1 {
+    font-size: 70px;
+  }
+  .banner-text-2{
+    font-size:60px;
+  }
+  .banner-text-2 span {
+    display: inline-block;
+    width: 83px;
+    height: 2px;
+    background: #fff;
+    margin-bottom: 20px;
+    margin-right: 15px;
+  }
+}
+
+
+/* ==== Service  section Mediam device responsive  strat =====  */
+@media (min-width:768px) and (max-width:991px){
+.text-box {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 20px;
+}
+}
+/* ====== protfilo image Mediam device responsive =======  */
+@media (min-width:768px) and (max-width:991px){
+.protfilo-bottom {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 30px;
+  margin-top: 200px;
+}
+}
+/* ====== About section  Mediam  device responsive =======  */
+@media (min-width:768px) and (max-width:991px){
+ .about-section {
+  display: inline;
+ }
+ .grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+ }
+}
+/* ====== carosel section  Mediam  device responsive =======  */
+
+
+/* ====== footer section  Mediam  device responsive =======  */
+@media (min-width:768px) and (max-width:991px){
+  .footer-flex {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+  }
+  .qursetion-footer {
+    padding-bottom: 53px;
+  }
+}
+
+/* ====== About section  Mediam  device responsive =======  */
+@media (min-width:768px) and (max-width:991px){
+  .about-section {
+   display: inline;
+  }
+  .grid-container {
+   display: grid;
+   grid-template-columns: auto auto;
+  }
+ }
+ /* ====== carosel section  Mediam  device responsive =======  */
+ 
+ 
+ /* ====== footer section  Mediam  device responsive =======  */
+ @media (min-width:768px) and (max-width:991px){
+   .footer-flex {
+     display: grid;
+     grid-template-columns: auto auto;
+     grid-gap: 30px;
+   }
+   .qursetion-footer {
+     padding-bottom: 53px;
+   }
+ }
+ 
+ /*
+ ====================================================
+ About section Responsive here 
+ ====================================================
+ */
+ /* Smartphones Mobiles (Portrait) device responsive =====  */
+ 
+ @media (min-width: 320px) and (max-width: 480px) {
+  .banner-about .about-text h2 {
+   font-size:50px;
+  }
+ }
+ @media (min-width: 481px) and (max-width: 767px) {
+  .banner-about .about-text h2{
+    font-size:80px;
+  }
+ }
+
+ /*
+ ====================================================
+ Blog section Responsive here 
+ ====================================================
+ */
+ /* Smartphones Mobiles (Portrait) device responsive =====  */
+ @media (min-width: 320px) and (max-width: 480px){
+  .blog {
+    display: block;
+    justify-content: space-between;
+    margin-top: 40px;
+  }
+  .blog-right .blog-img-1 span {
+    margin-left: 2px;
+    margin-right: 15px;
+}
+}
+@media (min-width: 481px) and (max-width: 767px){
+.blog {
+  display: block;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+}
+@media (min-width:768px) and (max-width:991px){
+  .blog {
+    display: block;
+    justify-content: space-between;
+    margin-top: 60px;
+  }
+  }
